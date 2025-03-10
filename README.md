@@ -28,8 +28,6 @@
     <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajuliabelchior&layout=compact&hide_border=false&border_color=991f98&title_color=991f98&text_color=991f98&bg_color=0d1117" /> 
 </div>
 
-![Snake animation](https://github.com/ajuliabelchior/ajuliabelchior/blob/output/github-contribution-grid-snake.svg)
-
 <br><br>
 
 ## 📫 Contate-me por aqui 
